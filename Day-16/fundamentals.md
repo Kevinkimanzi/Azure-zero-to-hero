@@ -42,3 +42,15 @@ Everything build on company's datacenter..the cloud could be OPENSTACK
 
 #### 1.HYBRID CLOUD
 Using both on-premise and a cloud service provider
+#### 1.CROSS CLOUD
+Using multiple provider
+
+# Cloud Architect needs to understand
+#### 1. Availability - Service should remain available
+#### 1. Elasticity - Ability to shrink and grow to meet demand
+#### 1. Disaster Recovery - recover from failure
+#### 1. Fault Tolerance - ability to prevent failure
+#### 1. Scalability -Ability to grow rapidly
+
+## High Availability - Ability of service to remain Available by ensuring no point of failure and certain levels of performance. Solution is having multiple server in different data center.i.e multiple zone  ..
+### Load Balancer - Allow you to evenly distribute traffic to multiple to multiple servers in one or datacenter. If one datacenter becomes unavailable the LB will route traffic to only datacenters with server
