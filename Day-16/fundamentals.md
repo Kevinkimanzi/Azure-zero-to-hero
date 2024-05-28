@@ -32,3 +32,13 @@ data backup, disaster recovery
 eg aws elestic beanstalk and heroku google app engine
 
 #### 1.IAAS (Infrastucture as a service)- Basic building block for cloud IT. Provide access to network computer and data. eg azure, aws, oracle cloud 
+
+# Cloud deploymwnt model
+#### 1.PUBLIC CLOUD/ gnerally is known as cloud native
+Everything build on the cloud provider
+
+#### 1.Private CLOUD generally is known as on-premise
+Everything build on company's datacenter..the cloud could be OPENSTACK
+
+#### 1.HYBRID CLOUD
+Using both on-premise and a cloud service provider
