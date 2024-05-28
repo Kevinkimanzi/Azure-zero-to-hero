@@ -26,3 +26,9 @@ increase or decrease resources based on demand
 data backup, disaster recovery
 
 # TYPES OF COMPUTING
+#### 1.SAAS (Software as a service)- A product that is run and managed by the service provider eg Salesforce, gmail
+
+#### 1.PAAS (Platform as a service)- Focus on the deployment and management of your app 
+eg aws elestic beanstalk and heroku google app engine
+
+#### 1.IAAS (Infrastucture as a service)- Basic building block for cloud IT. Provide access to network computer and data. eg azure, aws, oracle cloud 
