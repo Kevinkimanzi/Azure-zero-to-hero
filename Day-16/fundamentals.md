@@ -52,5 +52,19 @@ Using multiple provider
 #### 1. Fault Tolerance - ability to prevent failure
 #### 1. Scalability -Ability to grow rapidly
 
-## High Availability - Ability of service to remain Available by ensuring no point of failure and certain levels of performance. Solution is having multiple server in different data center.i.e multiple zone  ..
+# High Availability - Ability of service to remain Available by ensuring no point of failure and certain levels of performance. Solution is having multiple server in different data center.i.e multiple zone  ..
 ### Load Balancer - Allow you to evenly distribute traffic to multiple to multiple servers in one or datacenter. If one datacenter becomes unavailable the LB will route traffic to only datacenters with server
+
+# HIGH SCALABILITY  - Ability to increase your capacity based on the increasing demand of traffic, memory and computing power.
+#### type of scaling
+1. Vertical Scaling - Scaling up i.e upgrade to a bigger server
+
+2. Horizontal scaling - scaling out i.e add more server of the same size
+
+# HIGH ELASTICITY -  Ability to automatically increase your capacity based on the Current demand of traffic, memory and computing power.
+
+this is by horizontal scaling.
+
+    ```
+    Azure VM scale set
+    ```
